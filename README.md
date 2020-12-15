@@ -8,3 +8,7 @@ This is Automatic birthday wisher that wishes the birthday, play song, cut cake,
 ```
 git clone https://github.com/Ayush7614/diksha.github.io.git
 ```
+- Create a Branch- 
+```
+git checkout -b <branch_name>
+```
