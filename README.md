@@ -20,3 +20,6 @@ git checkout -b <branch_name>
 - JSON
 - React
 
+## Contributing
+* Clone the repo: `git clone https://github.com/Raghwendra-Dey/productivity_meter.git`
+* Open the repo in your local machine and open the `index.html` to run the app in your browser.</br> </br>
