@@ -12,3 +12,11 @@ git clone https://github.com/Ayush7614/diksha.github.io.git
 ```
 git checkout -b <branch_name>
 ```
+## web stack
+- HTML
+- CSS
+- JS
+- Less
+-JSON
+-React
+
