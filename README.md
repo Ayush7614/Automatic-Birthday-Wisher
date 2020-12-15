@@ -17,6 +17,6 @@ git checkout -b <branch_name>
 - CSS
 - JS
 - Less
--JSON
--React
+- JSON
+- React
 
