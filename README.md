@@ -21,5 +21,5 @@ git checkout -b <branch_name>
 - React
 
 ## Contributing
-* Clone the repo: `git clone https://github.com/Raghwendra-Dey/productivity_meter.git`
+* Clone the repo: `git clone https://github.com/Ayush7614/diksha.github.io.git`
 * Open the repo in your local machine and open the `index.html` to run the app in your browser.</br> </br>
