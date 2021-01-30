@@ -15,8 +15,6 @@ This is Automatic birthday wisher that wishes the birthday, play song, cut cake,
 - React
 
 ## Contributing
-* Clone the repo: `git clone https://github.com/Ayush7614/diksha.github.io.git`
-* Open the repo in your local machine and open the `index.html` to run the app in your browser.</br> </br>
 
 **1.**  Fork [this](https://github.com/Ayush7614/Automatic-Birthday-Wisher.git) repository.
 
