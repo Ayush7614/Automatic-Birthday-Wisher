@@ -5,6 +5,7 @@ This is Automatic birthday wisher that wishes the birthday, play song, cut cake,
 ## Owner
 
 * [Ayush Kumar👨‍💻](https://github.com/Ayush7614)
+* [Live Preview](https://ayush7614.github.io/Automatic-Birthday-Wisher/)
 
 ## web stack
 - HTML
