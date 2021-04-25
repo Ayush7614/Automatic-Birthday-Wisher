@@ -2,6 +2,10 @@
 
 This is Automatic birthday wisher that wishes the birthday, play song, cut cake, and many things just try it in your browser
 
+![Automatic-Birthday-Wisher](https://socialify.git.ci/Ayush7614/Automatic-Birthday-Wisher
+/image?forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
+
+
 ## Owner
 
 * [Ayush Kumar👨‍💻](https://github.com/Ayush7614)
