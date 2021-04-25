@@ -18,6 +18,12 @@ This is Automatic birthday wisher that wishes the birthday, play song, cut cake,
 - JSON
 - React
 
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+
+
 ## Contributing
 
 **1.**  Fork [this](https://github.com/Ayush7614/Automatic-Birthday-Wisher.git) repository.
